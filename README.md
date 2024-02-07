@@ -1,5 +1,5 @@
 <h1 align="center">There is ilham athallah</h1>
-<h3 align="center">frontend begginer from IDN Boarding school</h3>
+<h3 align="center">Student software engginer begginer from IDN Boarding school</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
